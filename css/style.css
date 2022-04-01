@@ -15,12 +15,11 @@ body{
   border-radius: 20px;
   box-shadow: 0 2rem 2rem hsl(220, 15%, 55%, 0.1);
 
-  width: 300px;
-  max-width: 85vw;
+  max-width: 320px;
 }
 
 .qr-code {
-  width: 90%;
+  max-width: 90%;
   margin: 5%;
   border-radius: 10px;
 }
